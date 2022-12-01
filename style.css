@@ -32,4 +32,28 @@ a:hover {
     background: black;
     color: white;
 }
+.footer{
+    display: flex;
+    float: right;
 
+}
+.developers{
+    margin-right: 1.3em;
+    font-size: 18px;
+    font-family:monospace;
+}
+
+p{
+    color: black;
+    margin-left: 1em;
+    margin-right: 10em;
+    font-size: 18px;
+}
+h3{
+   margin-left: 1em;
+}
+.dimg{
+    margin: 1em 1.3em 1.4em;
+    clear:right;
+    float: right;
+}
